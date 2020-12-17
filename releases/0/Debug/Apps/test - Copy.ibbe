@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Data>
+  <Colors>
+    <TopR>0</TopR>
+    <TopG>12</TopG>
+    <TopB>163</TopB>
+    <TileR>25</TileR>
+    <TileG>155</TileG>
+    <TileB>123</TileB>
+  </Colors>
+  <TileSize>Small</TileSize>
+  <CloseButton>True</CloseButton>
+  <DockButtons>True</DockButtons>
+  <Name>This is test copy</Name>
+</Data>

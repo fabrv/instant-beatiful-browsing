@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Data>
+  <Colors>
+    <TopR>0</TopR>
+    <TopG>163</TopG>
+    <TopB>163</TopB>
+    <TileR>150</TileR>
+    <TileG>162</TileG>
+    <TileB>0</TileB>
+  </Colors>
+  <TileSize>Small</TileSize>
+  <CloseButton>True</CloseButton>
+  <DockButtons>True</DockButtons>
+  <Name>test</Name>
+</Data>

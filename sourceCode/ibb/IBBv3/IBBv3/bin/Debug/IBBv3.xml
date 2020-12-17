@@ -1,0 +1,100 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+IBBv3
+</name>
+</assembly>
+<members>
+<member name="P:IBBv3.WeatherServices.WeatherDescription.WeatherID">
+	<remarks/>
+</member><member name="P:IBBv3.WeatherServices.WeatherDescription.Description">
+	<remarks/>
+</member><member name="P:IBBv3.WeatherServices.WeatherDescription.PictureURL">
+	<remarks/>
+</member><member name="T:IBBv3.WeatherServices.WeatherDescription">
+	<remarks/>
+</member><member name="P:IBBv3.WeatherServices.WeatherReturn.Success">
+	<remarks/>
+</member><member name="P:IBBv3.WeatherServices.WeatherReturn.ResponseText">
+	<remarks/>
+</member><member name="P:IBBv3.WeatherServices.WeatherReturn.State">
+	<remarks/>
+</member><member name="P:IBBv3.WeatherServices.WeatherReturn.City">
+	<remarks/>
+</member><member name="P:IBBv3.WeatherServices.WeatherReturn.WeatherStationCity">
+	<remarks/>
+</member><member name="P:IBBv3.WeatherServices.WeatherReturn.WeatherID">
+	<remarks/>
+</member><member name="P:IBBv3.WeatherServices.WeatherReturn.Description">
+	<remarks/>
+</member><member name="P:IBBv3.WeatherServices.WeatherReturn.Temperature">
+	<remarks/>
+</member><member name="P:IBBv3.WeatherServices.WeatherReturn.RelativeHumidity">
+	<remarks/>
+</member><member name="P:IBBv3.WeatherServices.WeatherReturn.Wind">
+	<remarks/>
+</member><member name="P:IBBv3.WeatherServices.WeatherReturn.Pressure">
+	<remarks/>
+</member><member name="P:IBBv3.WeatherServices.WeatherReturn.Visibility">
+	<remarks/>
+</member><member name="P:IBBv3.WeatherServices.WeatherReturn.WindChill">
+	<remarks/>
+</member><member name="P:IBBv3.WeatherServices.WeatherReturn.Remarks">
+	<remarks/>
+</member><member name="T:IBBv3.WeatherServices.WeatherReturn">
+	<remarks/>
+</member><member name="P:IBBv3.WeatherServices.POP.Nighttime">
+	<remarks/>
+</member><member name="P:IBBv3.WeatherServices.POP.Daytime">
+	<remarks/>
+</member><member name="T:IBBv3.WeatherServices.POP">
+	<remarks/>
+</member><member name="P:IBBv3.WeatherServices.temp.MorningLow">
+	<remarks/>
+</member><member name="P:IBBv3.WeatherServices.temp.DaytimeHigh">
+	<remarks/>
+</member><member name="T:IBBv3.WeatherServices.temp">
+	<remarks/>
+</member><member name="P:IBBv3.WeatherServices.Forecast.Date">
+	<remarks/>
+</member><member name="P:IBBv3.WeatherServices.Forecast.WeatherID">
+	<remarks/>
+</member><member name="P:IBBv3.WeatherServices.Forecast.Desciption">
+	<remarks/>
+</member><member name="P:IBBv3.WeatherServices.Forecast.Temperatures">
+	<remarks/>
+</member><member name="P:IBBv3.WeatherServices.Forecast.ProbabilityOfPrecipiation">
+	<remarks/>
+</member><member name="T:IBBv3.WeatherServices.Forecast">
+	<remarks/>
+</member><member name="P:IBBv3.WeatherServices.ForecastReturn.Success">
+	<remarks/>
+</member><member name="P:IBBv3.WeatherServices.ForecastReturn.ResponseText">
+	<remarks/>
+</member><member name="P:IBBv3.WeatherServices.ForecastReturn.State">
+	<remarks/>
+</member><member name="P:IBBv3.WeatherServices.ForecastReturn.City">
+	<remarks/>
+</member><member name="P:IBBv3.WeatherServices.ForecastReturn.WeatherStationCity">
+	<remarks/>
+</member><member name="P:IBBv3.WeatherServices.ForecastReturn.ForecastResult">
+	<remarks/>
+</member><member name="T:IBBv3.WeatherServices.ForecastReturn">
+	<remarks/>
+</member><member name="P:IBBv3.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:IBBv3.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:IBBv3.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

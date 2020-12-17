@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Data>
+  <Colors>
+    <TopR>234</TopR>
+    <TopG>0</TopG>
+    <TopB>0</TopB>
+    <TileR>0</TileR>
+    <TileG>76</TileG>
+    <TileB>123</TileB>
+  </Colors>
+  <TileSize>Large</TileSize>
+  <CloseButton>True</CloseButton>
+  <DockButtons>True</DockButtons>
+  <Name>form</Name>
+</Data>

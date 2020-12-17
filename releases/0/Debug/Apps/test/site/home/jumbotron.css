@@ -1,0 +1,46 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  color: white;
+  background-size: cover;  
+  background-color: white;
+  background-image: url('../../dist/img/04.jpg'); background-size: cover;
+  /*background-color: #3580B9;  */
+  background-position:left top;  
+  background-repeat:no-repeat;
+  padding-top: 50px;
+  padding-bottom: 20px;  
+  overflow-x: hidden;
+}
+.background{
+    background-color: #3580B9;
+    background-image: url('../../dist/img/background.jpg');
+    background-position:bottom;
+    background-size: 100%;
+    background-repeat:no-repeat;
+}
+.background-green{    
+    background: #35b88f url('../../dist/img/banner.svg') bottom center no-repeat;
+    background-size: 100%;
+    background-position:bottom;
+    background-repeat:no-repeat;    
+}
+.navbar{    
+    background-image: url('../../dist/img/05.jpg');
+    background-size: 100%;
+}
+.back-button{
+    border-radius: 100px;
+	transition: background-color 0.25s ease-in-out, color 0.25s ease-in-out;
+    
+}
+.back-button:hover{
+    background: #45c89f;
+}
+.back-button-red{
+    border-radius: 100px;
+	transition: background-color 0.25s ease-in-out, color 0.25s ease-in-out;
+    
+}
+.back-button-red:hover{    
+    background: red;    
+}
